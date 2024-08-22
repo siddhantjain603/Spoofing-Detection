@@ -19,8 +19,8 @@ To get started with the Spoofing Detection Project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/siddhantjain603/Spoofing-Detection.git
+    cd Spoofing-Detection
     ```
 
 2. **Set up a virtual environment (optional but recommended):**
@@ -113,9 +113,3 @@ To get started with the Spoofing Detection Project, follow these steps:
 
 - Make sure to adjust the file paths and model weights as needed for your specific setup.
 - You might need to modify configuration parameters in the scripts to better fit your environment and use case.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any questions or issues, please contact [Your Name](your.email@example.com).
